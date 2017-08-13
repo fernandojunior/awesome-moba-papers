@@ -1,5 +1,5 @@
 # Awesome MOBA Papers
-Curated list of awesome papers related to MOBAs, Data Mining, Machine Learning and IA.
+Curated list of awesome papers related to MOBAs, Data Analysis, Data Mining, Machine Learning and IA.
 
 ## Binary classification
 - [Predicting Player Churn in Multiplayer Games using Goal-Weighted Empowerment](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.9126&rep=rep1&type=pdf) (2013)
